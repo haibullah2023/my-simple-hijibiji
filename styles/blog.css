@@ -1,7 +1,7 @@
 div{
-    color: rgb(31, 47, 39);
+    color: rgba(149, 8, 46, 0.821);
     padding: 10px;
     /* margin: 10px; */
     margin-bottom: 10px;
-    border: 10px solid rgb(30, 8, 8);
+    border: 10px solid rgb(89, 12, 12);
 }
