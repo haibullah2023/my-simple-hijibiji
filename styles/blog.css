@@ -1,7 +1,14 @@
-div{
+.hasib{
     color: rgba(149, 8, 46, 0.821);
     padding: 10px;
     /* margin: 10px; */
     margin-bottom: 10px;
     border: 10px solid rgb(89, 12, 12);
+    
+}
+.nasim{
+   height: 200px;
+   width: 50%;
+   background-color: aqua;
+  
 }
