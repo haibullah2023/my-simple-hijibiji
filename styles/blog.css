@@ -1,5 +1,7 @@
 div{
-    color: tomato;
+    color: rgb(31, 47, 39);
     padding: 10px;
-    margin: 10px;
+    /* margin: 10px; */
+    margin-bottom: 10px;
+    border: 10px solid rgb(30, 8, 8);
 }
